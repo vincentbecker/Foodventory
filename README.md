@@ -9,3 +9,17 @@ Besides the names of the food items themselves, the app also recognizes the tota
 The stored food item names are currently in German, for use in other languages, please places the names of the food items you want to recognize in the string array `food_names` in the `res/values/strings.xml` file. 
 
 In order to run the app, you have to place your own google-services.json file in the /app folder as explained [here](https://developers.google.com/android/guides/google-services-plugin#adding_the_json_file). 
+
+Here are some screenshots of the app usage:   
+
+## Scanning a receipt
+<img src="screenshots/Screenshot_1.png" alt="Screenshot of scanning a receipt" width="300">
+
+## Selecting the correct items
+<img src="screenshots/Screenshot_2.png" alt="Screenshot of selecting the correct items" width="300">
+
+## The expense overview
+<img src="screenshots/Screenshot_3.png" alt="Screenshot of the expense overview" width="300">
+
+## The food inventory
+<img src="screenshots/Screenshot_4.png" alt="Screenshot of the food inventory" width="300">
