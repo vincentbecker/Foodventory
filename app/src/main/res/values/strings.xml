@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name" translatable="false">Foodventory</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_expenses">Expenses</string>
+    <string name="advertisement">Migros ist great!</string>
+    <string name="dialog_title">Detected food items</string>
+    <string name="sum">Sum CHF</string>
+    <string name="date">Date</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="add_new_item">Add food item</string>
+    <string name="name_incorrect">Name inkorrect</string>
+    <string name="date_incorrect">Date inkorrect</string>
+    <string name="sum_incorrect">Sum inkorrect</string>
+    <string name="input_incorrect">Wrong entry</string>
+    <string name="change_date">Change date</string>
+
+    <string-array name="food_names">
+        <item>Salat</item>
+        <item>Spinat</item>
+        <item>Bohnen</item>
+        <item>Kohl</item>
+        <item>Beeren</item>
+        <item>Zitronen</item>
+        <item>Weissbrot</item>
+        <item>Vollkornbrot</item>
+        <item>Kartoffeln</item>
+        <item>Weichkäse</item>
+        <item>Hartkäse</item>
+        <item>Butter</item>
+        <item>Olivenöl</item>
+        <item>Reis</item>
+        <item>Zucker</item>
+        <item>Bananen</item>
+        <item>Tomaten</item>
+        <item>Zwiebeln</item>
+        <item>Gurken</item>
+        <item>Mangos</item>
+        <item>Mehl</item>
+        <item>Vollmilch</item>
+        <item>Eier</item>
+        <item>Schinken</item>
+        <item>Datteln</item>
+        <item>Äpfel</item>
+        <item>Birnen</item>
+        <item>Karotten</item>
+        <item>Zucchetti</item>
+        <item>Clementinen</item>
+        <item>Mandarinen</item>
+        <item>Poulet</item>
+        <item>Schwein</item>
+    </string-array>
+
+    <string-array name="food_storage">
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in a dry place at room temperature.</item>
+        <item>Store in bread box.</item>
+        <item>Store in bread box.</item>
+        <item>Store in a dark, dry, and ventilated place.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in a dark, closed place.</item>
+        <item>Store in a dry and ventilated place.</item>
+        <item>Store in a dry place.</item>
+        <item>Store in a dry place at room temperature, not next to apples.</item>
+        <item>Store in a dry place at room temperature.</item>
+        <item>Store in a dry and ventilated place.</item>
+        <item>Store in the bottom of the fridge.</item>
+        <item>Store at room temperature.</item>
+        <item>Store in a dry place.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+        <item>Store packed at room temperature.</item>
+        <item>Store in a cold cellar with high humidity levels.</item>
+        <item>For a short time, in the fridge, for longer periods in the cellar.</item>
+        <item>Store in the fridge without a plastic bag.</item>
+        <item>Store in a dry place at room temperature, not next to apples or tomatoes.</item>
+        <item>Store in a dry place at room temperature.</item>
+        <item>Store in a dry place at room temperature.</item>
+        <item>Store in the fridge.</item>
+        <item>Store in the fridge.</item>
+    </string-array>
+
+    <string-array name="other_items">
+        <item>Total</item>
+        <item>Summe</item>
+    </string-array>
+
+</resources>

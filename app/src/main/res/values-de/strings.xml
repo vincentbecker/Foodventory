@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodventory</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="title_inventory">Inventar</string>
+    <string name="title_expenses">Ausgaben</string>
+    <string name="advertisement">Migros ist toll!</string>
+    <string name="dialog_title">Detektierte Lebensmittel</string>
+    <string name="sum">Summe CHF</string>
+    <string name="date">Datum</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="name">Name</string>
+    <string name="add_new_item">Lebensmittel hinzufügen</string>
+    <string name="name_incorrect">Name inkorrekt</string>
+    <string name="date_incorrect">Datum inkorrekt</string>
+    <string name="sum_incorrect">Summe inkorrekt</string>
+    <string name="input_incorrect">Falsche Eingabe</string>
+    <string name="change_date">Datum ändern</string>
+
+    <string-array name="food_storage">
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Bei Zimmertemparatur und trocken lagern.</item>
+        <item>Im Brotkasten lagern.</item>
+        <item>Im Brotkasten lagern.</item>
+        <item>Dunkel, trocken und belüftet lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Dunkel und geschlossen lagern.</item>
+        <item>Trocken und belüftet lagern.</item>
+        <item>Trocken lagern.</item>
+        <item>Bei Zimmertemparatur und trocken lagern, nicht neben Äpfeln.</item>
+        <item>Bei Zimmertemparatur und trocken lagern.</item>
+        <item>Trocken und belüftet lagern.</item>
+        <item>Im Kühlschrank unten lagern.</item>
+        <item>Bei Zimmertemparatur lagern.</item>
+        <item>Trocken lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Verpackt bei Zimmertemparatur lagern.</item>
+        <item>Im kalten Keller bei hoher Luftfeuchtigkeit lagern.</item>
+        <item>Kurzfristig im Kühlschrank, sonst im Keller.</item>
+        <item>Im Kühlschrank lagern, ohne Plastiktüte.</item>
+        <item>Bei Zimmertemparatur lagern, nicht neben Äpfeln oder Tomaten.</item>
+        <item>Bei Zimmertemparatur und trocken lagern.</item>
+        <item>Bei Zimmertemparatur und trocken lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+        <item>Im Kühlschrank lagern.</item>
+    </string-array>
+</resources>
+
